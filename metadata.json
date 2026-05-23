@@ -1,0 +1,6 @@
+{
+  "name": "ذاكرون",
+  "description": "منصتك الإسلامية الشاملة - مقالات، صوتيات، مرئيات، وأخبار.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
